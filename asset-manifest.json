@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mkelly88/todolist.git/static/css/main.2ba164cc.chunk.css",
+    "main.js": "/mkelly88/todolist.git/static/js/main.452e9acd.chunk.js",
+    "main.js.map": "/mkelly88/todolist.git/static/js/main.452e9acd.chunk.js.map",
+    "runtime-main.js": "/mkelly88/todolist.git/static/js/runtime-main.36da690f.js",
+    "runtime-main.js.map": "/mkelly88/todolist.git/static/js/runtime-main.36da690f.js.map",
+    "static/js/2.9249dd2a.chunk.js": "/mkelly88/todolist.git/static/js/2.9249dd2a.chunk.js",
+    "static/js/2.9249dd2a.chunk.js.map": "/mkelly88/todolist.git/static/js/2.9249dd2a.chunk.js.map",
+    "static/js/3.c08b7aaa.chunk.js": "/mkelly88/todolist.git/static/js/3.c08b7aaa.chunk.js",
+    "static/js/3.c08b7aaa.chunk.js.map": "/mkelly88/todolist.git/static/js/3.c08b7aaa.chunk.js.map",
+    "index.html": "/mkelly88/todolist.git/index.html",
+    "static/css/main.2ba164cc.chunk.css.map": "/mkelly88/todolist.git/static/css/main.2ba164cc.chunk.css.map",
+    "static/js/2.9249dd2a.chunk.js.LICENSE.txt": "/mkelly88/todolist.git/static/js/2.9249dd2a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36da690f.js",
+    "static/js/2.9249dd2a.chunk.js",
+    "static/css/main.2ba164cc.chunk.css",
+    "static/js/main.452e9acd.chunk.js"
+  ]
+}
